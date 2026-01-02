@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Asserra - Smart Wealth Tracker",
+  "description": "A comprehensive personal finance and wealth management dashboard featuring AI-powered portfolio analysis, performance tracking across assets (stocks, crypto, P2P, real estate), and financial goal monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
